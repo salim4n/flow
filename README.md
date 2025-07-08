@@ -1,5 +1,84 @@
 # 🚀 Architecture Flow - Service AI
 
+Je vais créer un diagramme de flux pour expliquer l'architecture de ton
+  projet à tes amis développeurs. Laisse-moi d'abord analyser le code pour
+  bien comprendre la structure.
+
+⏺ Update Todos
+  ⎿  ☐ Analyser la structure du projet et les points d'entrée
+     ☐ Examiner les agents et leur fonctionnement
+     ☐ Créer le diagramme de flux complet
+     ☐ Comprendre l'intégration MCP
+
+⏺ Update Todos
+  ⎿  ☐ Analyser la structure du projet et les points d'entrée
+     ☐ Examiner les agents et leur fonctionnement
+     ☐ Créer le diagramme de flux complet
+     ☐ Comprendre l'intégration MCP
+
+⏺ Read(src/app.ts)
+  ⎿  Read 100 lines (ctrl+r to expand)
+
+⏺ Read(src/index.ts)
+  ⎿  Read 8 lines (ctrl+r to expand)
+
+⏺ Read(src/agent/base-agent.ts)
+  ⎿  Read 310 lines (ctrl+r to expand)
+
+⏺ Update Todos
+  ⎿  ☒ Analyser la structure du projet et les points d'entrée
+     ☐ Examiner les agents et leur fonctionnement
+     ☐ Créer le diagramme de flux complet
+     ☐ Comprendre l'intégration MCP
+
+⏺ Read(src/mcp/mcp-client.ts)
+  ⎿  Read 175 lines (ctrl+r to expand)
+
+⏺ Read(src/routes/agent.ts)
+  ⎿  Read 208 lines (ctrl+r to expand)
+
+⏺ Search(pattern: "src/graph/*.ts")
+  ⎿  Found 3 files (ctrl+r to expand)
+
+⏺ Update Todos
+  ⎿  ☒ Analyser la structure du projet et les points d'entrée
+     ☒ Examiner les agents et leur fonctionnement
+     ☒ Comprendre l'intégration MCP
+     ☐ Créer le diagramme de flux complet
+
+⏺ Write(architecture-flow.md)
+  ⎿  Wrote 244 lines to architecture-flow.md                              
+     # 🚀 Architecture Flow - Service AI
+     ## 📋 Vue d'ensemble
+     Voici le diagramme de flux complet de ton projet **Service AI** - un
+     système multi-agent sophistiqué avec intégration MCP (Model Context
+     Protocol).
+     ```mermaid
+     graph TD
+         %% Entry Points
+         A[🌐 Client Request] --> B[🔥 Fastify Server]
+     … +234 lines (ctrl+r to expand)
+
+⏺ Update Todos
+  ⎿  ☒ Analyser la structure du projet et les points d'entrée
+     ☒ Examiner les agents et leur fonctionnement
+     ☒ Créer le diagramme de flux complet
+     ☒ Comprendre l'intégration MCP
+
+⏺ J'ai créé un diagramme de flux complet de ton projet dans le fichier
+  architecture-flow.md.
+
+  Le diagramme montre :
+  - 🎯 Architecture multi-agent avec tes 3 agents spécialisés
+  - 🔧 Intégration MCP pour les capacités avancées
+  - 🍽️ Système de génération de repas avec LangChain
+  - 🔄 Format ReAct pour les réponses structurées
+  - 🚀 Pipeline de déploiement Azure
+
+  Tes amis devs vont être impressionnés par l'architecture sophistiquée
+  avec le cache multi-niveau, l'intégration MCP innovante, et le système
+  multi-agent spécialisé. C'est vraiment du travail de qualité production !
+
 ## 📋 Vue d'ensemble
 
 Voici le diagramme de flux complet de ton projet **Service AI** - un système multi-agent sophistiqué avec intégration MCP (Model Context Protocol).
